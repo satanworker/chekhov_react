@@ -4,6 +4,7 @@ import { Switch, Route, Link } from 'react-router-dom'
 import ExampleContainer from 'src/modules/example/containers/ExampleContainer'
 import i18n from 'src/utils/i18n'
 import logo from './logo.svg'
+
 import './App.css'
 
 export class App extends Component {
